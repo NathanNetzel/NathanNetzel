@@ -2,12 +2,15 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NathanNetzel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NathanNetzel&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=NathanNetzel&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-![snake gif](https://github.com/NathanNetzel/NathanNetzel/blob/output/github-contribution-grid-snake.svg)
+###
 
+<img src="https://raw.githubusercontent.com/NathanNetzel/NathanNetzel/blob/output/snake.svg" alt="Snake animation" />
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1pf4lvpqm03ay0jyzrcfvg0an)
+###
