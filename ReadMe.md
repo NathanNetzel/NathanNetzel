@@ -11,6 +11,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NathanNetzel/NathanNetzel/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/NathanNetzel/NathanNetzel/blob/output/github-contribution-grid-snake.svg)
 
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1pf4lvpqm03ay0jyzrcfvg0an)
 ###
