@@ -7,4 +7,7 @@
   <img src="https://streak-stats.demolab.com?user=NathanNetzel&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+![snake gif]
+https://github.com/NathanNetzel/NathanNetzel/blob/output/github-contribution-grid-snake.gif
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1pf4lvpqm03ay0jyzrcfvg0an)
