@@ -14,6 +14,6 @@
 
 ![snake gif](https://github.com/NathanNetzel/NathanNetzel/blob/output/github-contribution-grid-snake.svg)
 
-
+<div align="center">
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1pf4lvpqm03ay0jyzrcfvg0an)
 ###
