@@ -3,8 +3,8 @@ I’m an Electrical Engineering undergraduate at Londrina State University with 
 
 Here you'll find a collection of my projects, including:  
 - 📸 **Photos and schematics** of PCBs I’ve designed using *Altium Designer*, such as:  
-  - Development of a **small on-board computer** for sounding rockets.  
-  - A **data acquisition system** for testing small rocket engines using *STM32* ARM microcontrollers.  
+  - Development of a **compact on-board computer** for sounding rockets.  
+  - A **versatile low-cot data acquisition system** for testing small rocket engines using *STM32* ARM microcontrollers.  
   - Other **dedicated embedded hardware** based on ARM microcontrollers.
 
 - ⚙️ **Sensor libraries** written in C using the *STM32 HAL* framework.  
