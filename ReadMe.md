@@ -1,14 +1,14 @@
-###
-
 👋 **Welcome to my GitHub!**  
 I’m an Electrical Engineering undergraduate at Londrina State University with a strong focus on embedded systems, electronic instrumentation, and hardware development.
 
 Here you'll find a collection of my projects, including:  
-- 📸 **Photos and schematics** of PCBs I’ve designed using *Altium Designer*.  
+- 📸 **Photos and schematics** of PCBs I’ve designed using *Altium Designer*, such as:  
+  - Development of a **small on-board computer** for sounding rockets.  
+  - A **data acquisition system** for testing small rocket engines using *STM32* ARM microcontrollers.  
+  - Other **dedicated embedded hardware** based on ARM microcontrollers.
+
 - ⚙️ **Sensor libraries** written in C using the *STM32 HAL* framework.  
-- 🚀 Embedded algorithms for aerospace applications, such as:  
-  - Apogee detection in sounding rockets using Kalman filtering.  
-  - Development of a **small on-board computer** and a **data acquisition system** for small rocket engines with *STM32* ARM microcontrollers.
+- 🚀 Embedded algorithms for aerospace applications, such as apogee detection with Kalman filtering.
 
 Other experiences include:  
 - 🧠 Leading over 100 students as Project Director of the *IEEE Student Branch*, managing projects with the Scrum methodology.  
