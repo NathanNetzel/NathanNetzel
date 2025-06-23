@@ -12,9 +12,9 @@ Here you'll find a collection of my projects, including:
 
 Other experiences include:  
 - 🧠 Leading over 100 students as Project Director of the *IEEE Student Branch*, managing projects with the Scrum methodology.  
-- 🔒 Creating a smart electronic lock system.  
+- 🔒 Developing a smart electronic lock system.  
 - 📊 Applying statistical algorithms in R for engineering education through consultancy projects.  
-- 👨‍🏫 Teaching electronics fundamentals to gifted students.
+- 👨‍🏫 Teaching electronics fundamentals to Child Prodigies.
 
 💡 **My goal** is to bridge theory and hands-on engineering by building practical, innovative solutions and sharing knowledge with the open-source community.
 
